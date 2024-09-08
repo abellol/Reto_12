@@ -101,7 +101,7 @@ def contador (texto:str) -> str:
     x = parejas[i]
     freq = x[0]
     dato = x[1]
-    print(f"{i+1}. {dato}: {freq}")
+    print(f"{i+1}. {dato}: {freq} veces")
   return (" ")
 
 if __name__ == "__main__":
